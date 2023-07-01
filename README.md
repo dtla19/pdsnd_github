@@ -10,9 +10,9 @@ Bikeshare Project
 This program was built to analyse bikeshare data in New York City, Chicago, and New York city. 
 
 ### Files Used
-chicago.csv
-new_york_city.csv
- washington.csv
+*chicago.csv
+*new_york_city.csv
+*washington.csv
 
 ### Credits
 Udacity GPT, Knowledge Bank, Udacity Staff, and colleagues are credited with assisting in the final version of this program. 
