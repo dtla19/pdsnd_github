@@ -7,7 +7,7 @@ Project Created: 12 June 2023
 Bikeshare Project
 
 ### Description
-This program was built to analyze bikeshare data in New York City, Chicago, and New York city. 
+This program was built to analyze bikeshare data in Chicago, New York City, and New York city. 
 
 ### Files Used
 *chicago.csv
