@@ -25,7 +25,7 @@ def get_filters():
             print('\nInvalid city name. Please try again.\n')
             
     while True:
-        month = input('\nWhich month would you like to see data for? \n').lower()
+        month = input('\nWhich  month would you like to see data for? \n').lower()
         if month in ['all', 'january', 'february', 'march', 'april', 'may', 'june']:
             break
         else:
